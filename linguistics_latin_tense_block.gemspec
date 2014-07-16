@@ -8,8 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = LinguisticsLatinTenseBlock::VERSION
   spec.authors       = ["Steven G. Harms"]
   spec.email         = ["steven@devbootcamp.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Abstraction for extracting person / number combinations from an abstraction (TenseBlock) holding a voice/mood/tense collection}
   spec.homepage      = ""
   spec.license       = "MIT"
 
