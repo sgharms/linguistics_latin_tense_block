@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "linguistics_latin_tense_block"
   spec.version       = LinguisticsLatinTenseBlock::VERSION
   spec.authors       = ["Steven G. Harms"]
-  spec.email         = ["steven@devbootcamp.com"]
+  spec.email         = ["steven.harms@gmail.com"]
   spec.summary       = %q{Abstraction for extracting person / number combinations from an abstraction (TenseBlock) holding a voice/mood/tense collection}
   spec.homepage      = ""
   spec.license       = "MIT"
