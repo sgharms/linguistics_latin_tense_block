@@ -1,6 +1,7 @@
 require 'forwardable'
 require 'linguistics_latin'
 require 'linguistics_latin_tense_block/version'
+require 'linguistics_latin_tense_block/utils/triplicate_and_pluralize_formatters.rb'
 require 'linguistics_latin_tense_block/tense_block'
 require 'linguistics_latin_tense_block/tense_block/null_tense_block'
 require 'linguistics_latin_tense_block/tense_block/vector_resolution_delegate'
